@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul162raj
+- 👋 Hi, I’m rahul162raj
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently working in web development technologies (Angular, Spring MVC) 
 - 📫 rahulrajcse07@gmail.com
