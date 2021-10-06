@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rahul162raj
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently working in web development technologies (Angular, Spring MVC) 
+- 👀 I’m interested in Frontend web development
+- 🌱 I’m currently working in web development technologies (ReactJS, Angular, ES6 etc...) 
 - 📫 rahulrajcse07@gmail.com
 
 <!---
