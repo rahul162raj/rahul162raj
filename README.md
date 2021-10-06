@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rahul162raj
+- 👋 Hi, I’m Rahulraj Nataraj
 - 👀 I’m interested in Frontend web development
 - 🌱 I’m currently working in web development technologies (ReactJS, Angular, ES6 etc...) 
 - 📫 rahulrajcse07@gmail.com
